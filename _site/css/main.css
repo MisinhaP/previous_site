@@ -1,4 +1,6 @@
-.heading-font { font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif'; font-weight: 200; letter-spacing: 1px; }
+@font-face { font-family: myFont; src: url("Hammersmith_One/HammersmithOne-Regular.ttf"); }
+
+.heading-font { font-family: 'myFont', 'Helvetica', 'Arial', 'sans-serif'; font-weight: 200; letter-spacing: 1px; }
 
 .body-font { font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif'; }
 
@@ -16,13 +18,13 @@ hr { max-width: 100px; margin: 25px auto 0; border-width: 1px; border-color: rgb
 
 hr.light { border-color: white; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif'; font-weight: 200; letter-spacing: 1px; }
+h1, h2, h3, h4, h5, h6 { font-family: 'myFont', 'Helvetica', 'Arial', 'sans-serif'; font-weight: 200; letter-spacing: 1px; }
 
 p { font-size: 18px; line-height: 1.5; margin-bottom: 20px; }
 
-.navbar-default { background-color: white; border-color: rgba(34, 34, 34, 0.05); -webkit-transition: all 0.35s; -moz-transition: all 0.35s; transition: all 0.35s; font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif'; font-weight: 200; letter-spacing: 1px; }
+.navbar-default { background-color: white; border-color: rgba(34, 34, 34, 0.05); -webkit-transition: all 0.35s; -moz-transition: all 0.35s; transition: all 0.35s; font-family: 'myFont', 'Helvetica', 'Arial', 'sans-serif'; font-weight: 200; letter-spacing: 1px; }
 
-.navbar-default .navbar-header .navbar-brand { font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif'; font-weight: 200; letter-spacing: 1px; color: #fdcc52; }
+.navbar-default .navbar-header .navbar-brand { font-family: 'myFont', 'Helvetica', 'Arial', 'sans-serif'; font-weight: 200; letter-spacing: 1px; color: #fdcc52; }
 
 .navbar-default .navbar-header .navbar-brand:hover, .navbar-default .navbar-header .navbar-brand:focus { color: #fcbd20; }
 
@@ -42,7 +44,7 @@ p { font-size: 18px; line-height: 1.5; margin-bottom: 20px; }
 
 @media (min-width: 768px) { .navbar-default { background-color: transparent; border-color: transparent; } .navbar-default .navbar-header .navbar-brand { color: rgba(255, 255, 255, 0.7); } .navbar-default .navbar-header .navbar-brand:hover, .navbar-default .navbar-header .navbar-brand:focus { color: white; } .navbar-default .nav > li > a { color: rgba(255, 255, 255, 0.7); } .navbar-default .nav > li > a:focus { color: rgba(255, 255, 255, 0.7); } .navbar-default .nav > li > a:hover, .navbar-default .nav > li > a:focus:hover { color: white; } .navbar-default.affix { background-color: white; border-color: rgba(34, 34, 34, 0.1); } .navbar-default.affix .navbar-header .navbar-brand { color: #222222; } .navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus { color: #fdcc52; } .navbar-default.affix .nav > li > a { color: #222222; } .navbar-default.affix .nav > li > a:focus { color: #222222; } .navbar-default.affix .nav > li > a:hover, .navbar-default.affix .nav > li > a:focus:hover { color: #fdcc52; } }
 
-header { position: relative; width: 100%; min-height: auto; overflow-y: hidden; background: url("../img/bg-pattern.png"), #7b4397; /* fallback for old browsers */ background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430); /* Chrome 10-25, Safari 5.1-6 */ background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ color: white; }
+header { position: relative; width: 100%; min-height: auto; overflow-y: hidden; /* background: url("../img/bg-pattern.png"), $head-primary; fallback for old browsers */ background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430); /* Chrome 10-25, Safari 5.1-6 */ /*  background:  url("../img/amsterdam.jpg?w=2000&amp;h=1200"), linear-gradient(to left, #211f22, #771818); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/amsterdam.jpg"); color: white; }
 
 header .header-content { text-align: center; padding: 150px 0 50px; position: relative; }
 

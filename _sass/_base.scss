@@ -1,5 +1,10 @@
+@font-face {
+  font-family: myFont;
+  src: url("Hammersmith_One/HammersmithOne-Regular.ttf");
+}
+
 .heading-font {
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'myFont', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -46,7 +51,7 @@ hr {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'myFont', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -63,12 +68,12 @@ p {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'myFont', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
   .navbar-header {
     .navbar-brand {
-      font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+      font-family: 'myFont', 'Helvetica', 'Arial', 'sans-serif';
       font-weight: 200;
       letter-spacing: 1px;
       color: $theme-primary;
@@ -156,12 +161,22 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
+  /*
   background: url("../img/bg-pattern.png"), $head-primary;
-  /* fallback for old browsers */
+   fallback for old browsers */
   background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, $head-primary, $head-secondary);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, $head-primary, $head-secondary);
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /*  background:  url("../img/amsterdam.jpg?w=2000&amp;h=1200"), linear-gradient(to left, #211f22, #771818);
+   W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../img/amsterdam.jpg");
+
+
   color: white;
   .header-content {
     text-align: center;

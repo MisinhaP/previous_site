@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "SIMPLY THE BEST"
+subtitle: "After living already a few years in Poland as a Dutch speaker and being able to say a good few words in Polish , which in all honesty i would just randomly put together in a sentence without any regard to form or linguistic rules, i decided it was time to tackle the oh so famously difficult Polish grammar! I was very skeptical about anyone being able to explain to me the polish case system as many of my polish friends had tried and given up , among them someone who has a doctorate in Polish philology. In my first meeting with Monika which lasted about an hour she took away every shred of my skepticism. With a very smart analogy she was able to explain to me the reason and sense of the case system and gave me the confidence to proceed to try to unravel this mysterious grammar. We had classes together for the better part of a year and my Polish has improved immensely in this time. If she would have stayed in Poland i would have continued my classes and would probably be writing this in Polish. She is a very dedicated and enthusiastic person and if there is something as a “gift to teach” than she has it. If you are looking to learn a new language and really want to get the best out of your time and money then don’t hesitate and go for it! You won’t regret it!In case anyone would like to ask me something you can write to my mail address! In english, nederlands albo po polsku."
+date:       2016-07-01 12:00:00
+author:     "RONNY DIRIKX, Belgium"
+header-img: "img/post-bg-02.jpg"
+categories: Start Bootstrap
+---
+
+SIMPLY THE BEST
+
+After living already a few years in Poland as a Dutch speaker and being able to say a good few words in Polish , which in all honesty i would just randomly put together in a sentence without any regard to form or linguistic rules, i decided it was time to tackle the oh so famously difficult Polish grammar! I was very skeptical about anyone being able to explain to me the polish case system as many of my polish friends had tried and given up , among them someone who has a doctorate in Polish philology. In my first meeting with Monika which lasted about an hour she took away every shred of my skepticism. With a very smart analogy she was able to explain to me the reason and sense of the case system and gave me the confidence to proceed to try to unravel this mysterious grammar. We had classes together for the better part of a year and my Polish has improved immensely in this time. If she would have stayed in Poland i would have continued my classes and would probably be writing this in Polish. She is a very dedicated and enthusiastic person and if there is something as a “gift to teach” than she has it. If you are looking to learn a new language and really want to get the best out of your time and money then don’t hesitate and go for it! You won’t regret it!In case anyone would like to ask me something you can write to my mail address! In english, nederlands albo po polsku.
+
+RONNY DIRIKX, Belgium
