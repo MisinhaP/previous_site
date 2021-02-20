@@ -54,6 +54,12 @@
     border-radius: 100px;
 }
 
+#more {display: none;}
+#more2 {display: none;}
+
+#readmore {cursor: pointer;}
+
+#readmore2 {cursor: pointer;}
 
 
 
