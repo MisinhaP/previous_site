@@ -100,7 +100,7 @@ section.about .feature-item h3 { font-size: 30px; }
 
 section.about .feature-item i { font-size: 80px; background: -webkit-linear-gradient(to left, #7b4397, #dc2430); background: linear-gradient(to left, #7b4397, #dc2430); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
 
-section.cta { position: relative; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; background-image: url("../img/bg-cta.jpg"); padding: 250px 0; }
+section.cta { position: relative; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; padding: 250px 0; }
 
 section.cta .cta-content { position: relative; z-index: 1; }
 

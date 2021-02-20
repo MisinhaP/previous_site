@@ -13,6 +13,10 @@
     margin-bottom: 30px;
 }
 
+.contact_text{
+  padding: 3%;
+}
+
 /*-------------------------------*/
 /*    Carousel Fade Transition   */
 /*-------------------------------*/
@@ -65,7 +69,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #4CAF50;
+  background-color: #fdcc52;
   color: white;
   padding: 12px 20px;
   border: none;
