@@ -1,10 +1,10 @@
 # Site settings
-title: Misia VR
+title: Polish Lessons Amsterdam
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: Learning Polish as a foreign language and conversational games
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://jekynewage.github.io" # the base hostname & protocol for your site
+url: "https://misinhap.github.io" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 2973388149
