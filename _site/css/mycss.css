@@ -56,11 +56,13 @@
 
 #more {display: none;}
 #more2 {display: none;}
+#more3 {display: none;}
+#more4 {display: none;}
 
 #readmore {cursor: pointer;}
-
 #readmore2 {cursor: pointer;}
-
+#readmore3 {cursor: pointer;}
+#readmore4 {cursor: pointer;}
 
 
 input[type=text], select, textarea {
