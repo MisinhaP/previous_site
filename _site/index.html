@@ -350,21 +350,20 @@
               <hr>
    
     <div class="col-md-6">
-        <form class="contact" action="https://formspree.io/f/xoqpbzez" method="post">
+        <form id="my-form" class="contact" action="https://formspree.io/f/xoqpbzez" method="post">
             <h3 for="fname">Name</h3>
-            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+            <input type="text" id="fname" name="name" placeholder="Your name..">
 
             <h3 for="lname">Email</h3>
-            <input type="text" id="email" name="_replyto" placeholder="example@email.com">
+            <input type="text" id="email" required name="_replyto" placeholder="example@email.com">
             
             <h3 for="lname">Phone</h3>
-            <input type="text" id="phone" placeholder="06123456789">
+            <input type="text" id="phone" name="phone" placeholder="06123456789">
 
-            
             <h3 for="message">Message</h3>
-            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-            <input type="submit" value="Submit">
+            <textarea id="subject" name="subject" required placeholder="Write something.." style="height:200px"></textarea>
+            <p id="my-form-status"></p>
+            <input id="my-form-button" type="submit" value="Submit">
         </form>
     </div>
     <div class="col-md-6 contact_text">
@@ -431,6 +430,7 @@
 
 
 <script src="/js/readmore.js"></script>
+<script src="/js/formspree.js"></script>
 
 </body>
 
