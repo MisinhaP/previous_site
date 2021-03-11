@@ -1,3 +1,17 @@
+.image, figcaption{
+  font-style: italic;
+  margin-top: -2rem;
+  font-size: 17px;
+}
+
+.imagelink {
+  transition: .5s ease;
+}
+.imagelink:hover  {
+  opacity: 0.5;
+}
+
+
 .avatar {
 	max-width: 100%
 }
