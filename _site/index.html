@@ -255,6 +255,15 @@
   box-sizing: border-box;
 }
 
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #f1f1f1;
+  padding-top: 60px;
+  padding-bottom: 15px;
+}
+
 .games {
   background-color: #f1f1f1;
   padding: 20px;
@@ -262,10 +271,7 @@
 }
 
 /* Center website */
-
-
-
-.row {
+.games.row {
   margin: 10px -16px;
 }
 
@@ -323,7 +329,7 @@
 
 <h2>Games</h2>
 
-<div id="myBtnContainer">
+<div id="myBtnContainer" class="sticky">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
   <button class="btn" onclick="filterSelection('nature')"> Nature</button>
   <button class="btn" onclick="filterSelection('cars')"> Cars</button>
@@ -334,21 +340,21 @@
 <div class="row">
   <div class="column nature">
     <div class="content">
-      <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+      <img src="img/portfolio/1.jpg" alt="Mountains" style="width:100%">
       <h4>Mountains</h4>
       <p>Lorem ipsum dolor..</p>
     </div>
   </div>
   <div class="column nature">
     <div class="content">
-    <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+    <img src="img/portfolio/6.jpg" alt="Lights" style="width:100%">
       <h4>Lights</h4>
       <p>Lorem ipsum dolor..</p>
     </div>
   </div>
   <div class="column nature">
     <div class="content">
-    <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
+    <img src="img/portfolio/2.jpg" alt="Nature" style="width:100%">
       <h4>Forest</h4>
       <p>Lorem ipsum dolor..</p>
     </div>
@@ -356,21 +362,21 @@
   
   <div class="column cars">
     <div class="content">
-      <img src="/w3images/cars1.jpg" alt="Car" style="width:100%">
+      <img src="img/portfolio/4.jpg" alt="Car" style="width:100%">
       <h4>Retro</h4>
       <p>Lorem ipsum dolor..</p>
     </div>
   </div>
   <div class="column cars">
     <div class="content">
-    <img src="/w3images/cars2.jpg" alt="Car" style="width:100%">
+    <img src="img/portfolio/3.jpg" alt="Car" style="width:100%">
       <h4>Fast</h4>
       <p>Lorem ipsum dolor..</p>
     </div>
   </div>
   <div class="column cars">
     <div class="content">
-    <img src="/w3images/cars3.jpg" alt="Car" style="width:100%">
+    <img src="img/portfolio/5.jpg" alt="Car" style="width:100%">
       <h4>Classic</h4>
       <p>Lorem ipsum dolor..</p>
     </div>
@@ -378,21 +384,21 @@
 
   <div class="column people">
     <div class="content">
-      <img src="/w3images/people1.jpg" alt="Car" style="width:100%">
+      <img src="img/portfolio/4.jpg" alt="Car" style="width:100%">
       <h4>Girl</h4>
       <p>Lorem ipsum dolor..</p>
     </div>
   </div>
   <div class="column people">
     <div class="content">
-    <img src="/w3images/people2.jpg" alt="Car" style="width:100%">
+    <img src="img/portfolio/3.jpg" alt="Car" style="width:100%">
       <h4>Man</h4>
       <p>Lorem ipsum dolor..</p>
     </div>
   </div>
   <div class="column people">
     <div class="content">
-    <img src="/w3images/people3.jpg" alt="Car" style="width:100%">
+    <img src="img/portfolio/2.jpg" alt="Car" style="width:100%">
       <h4>Woman</h4>
       <p>Lorem ipsum dolor..</p>
     </div>
