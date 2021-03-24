@@ -20,6 +20,11 @@ categories: games intermediate
 
 <p><i class="fa fa-2x fa-cubes fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game type: card game, cooperative </p>
 
+<br>
+<br>
+
+<p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="https://www.google.com" target="_blank">How to learn with games - a quick guide</a> </p>
+
                 </div>
             </div>
             <div class="col-lg-5 col-md-10 text-left">
@@ -40,11 +45,7 @@ categories: games intermediate
 <hr>
 <hr>
 <br>
-<br>
 
-[How to learn a language by playing games - a quick guide](https://www.google.com)
-
-<a href="https://www.google.com" target="_blank">How to learn a language by playing games - a quick guide</a>
 
 <img src="/img/portfolio/the-mind-box.png" alt="alt text" width="600" >
 

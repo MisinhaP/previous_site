@@ -16,9 +16,14 @@ categories: games intermediate
                 <div class="service-box">
                    <p><i class="fa fa-2x fa-sort-amount-asc fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Language level: beginner</p>
 
-<p><i class="fa fa-2x fa-commenting-o fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Vocabulary: numbers</p>
+<p><i class="fa fa-2x fa-commenting-o fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Vocabulary: colours, numeral nouns</p>
 
 <p><i class="fa fa-2x fa-cubes fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game type: card game, cooperative </p>
+
+<br>
+<br>
+
+<p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="https://www.google.com" target="_blank">How to learn with games - a quick guide</a> </p>
 
                 </div>
             </div>
@@ -26,9 +31,9 @@ categories: games intermediate
                 <div class="service-box">
                   <p><i class="fa fa-2x fa-dashboard fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game level: beginner</p>
 
-<p><i class="fa fa-2x fa-child fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Number of players: 2-4</p>
+<p><i class="fa fa-2x fa-child fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Number of players: 2-5</p>
 
-<p><i class="fa fa-2x fa-hourglass-start fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game time: 20-60 mins</p>
+<p><i class="fa fa-2x fa-hourglass-start fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game time: 30 mins</p>
 
                 </div>
             </div>
@@ -40,20 +45,16 @@ categories: games intermediate
 <hr>
 <hr>
 <br>
-<br>
 
-[How to learn a language by playing games - a quick guide](https://www.google.com)
-
-<a href="https://www.google.com" target="_blank">How to learn a language by playing games - a quick guide</a>
 
 <img src="/img/portfolio/hanabi-box.jpg" alt="alt text" width="500" >
 
 ## What is the game about?
 
-All players form a single team. In the first round (level 1) each player receives 1 card, in the second round (level 2) they receive 2 cards, and so on. **The only thing the players need to do as a team is lay all these cards down in numerical order, from lowest to highest.** This would be super easy except that it is so difficult! Whaaaaat 🤨?!? 
-<br>Here is the trick: the players **must not disclose anything about their own cards** - no sharing of information, no secret signals. Whoever thinks they have the next card simply puts it down -- if they were right and no one had a lower card, they continue playing but if they were wrong, everybody loses a life and you start the round again. 
-<br>There's also a handy throwing-a-star trick for the moments the entire team agrees to use up one of thier stars (earned at levels 1, 2, 5 and 8) and sync up by revealing everybody's lowest cards. The game ends when either the team has run out of lives (a loss) or has completed the last level (a victory).
+Hanabi is a cooperative game in which all the players prepare a spectacular fireworks show designed in 5 different colors -- and each color needs to be arranged in the ascending 1-2-3-4-5 sequence. The trick? Players cannot see their own hand cards and need the advice of their fellow players! <br>
 
+In each turn you can either play/discard a card or hint another player about the cards they have or do not have -- you do this by choosing either a colour or a number and a) pointing to all their cards that share the chosen characteristic or b) informing them they do not have such cards. Based on the hints they get, players start new fireworks or extend the ones already started on the table following the 1-2-3-4-5 sequence. The more cards the players play correctly, the more points they receive when the game ends. The game can be extended with the colorful fireworks cards and the spare note tokens.
+ 
 <br>
  
 
@@ -63,19 +64,17 @@ All players form a single team. In the first round (level 1) each player receive
 
 ## What kind of vocabulary can you practice?
 
-This game is called The Mind for a reason -- it is played in the players' minds, they cannot exchange any information about their cards or strategy. This makes it a very exciting, language independent game great for beginners as they can focus entirely on practicing their numbers (read the numbers and levels that appear on the table) and general gaming vocabulary (download the free Useful phrases in Polish PDF).
+You can practice 5 colours, *white, blue, green, yellow, red*, and 5 numeral nouns (not numbers!) which are the equivalent of the English *a one, a two, a three, a four, a five*. This seems to be quite a limited amount of vocabulary to practice, however, you have to use it in sentences and this is where it gets challenging as you can choose to use it in *3 different cases* ! The native speakers at the table will do this automatically, just follow them and you'll be all right 😅
 
-<p>
 
 <h3><i class="fa fa-2x fa-commenting fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Example expressions you will learn:</h3>
 
 
-<p>Numbers 1-100</p>
-<p>Ordinary numbers 1-12 (poziom pierwszy, poziom drugi, poziom trzeci, etc.)</p>
-<p>Udało się!</p>
-<p>Dobrze, teraz następna runda.</p>
+<p>Zielona karta jest tu, tu i tu.</p>
+<p>Tutaj masz czerwoną kartę.</p>
+<p>To jest piątka.</p>
+<p>Nie masz żadnej jedynki.</p>
 
-</p>
 
 <br>
 

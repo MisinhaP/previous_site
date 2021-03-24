@@ -20,6 +20,11 @@ categories: games intermediate
 
 <p><i class="fa fa-2x fa-cubes fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game type: tile game, visuospacial </p>
 
+<br>
+<br>
+
+<p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="https://www.google.com" target="_blank">How to learn with games - a quick guide</a> </p>
+
                 </div>
             </div>
             <div class="col-lg-5 col-md-10 text-left">
@@ -40,36 +45,30 @@ categories: games intermediate
 <hr>
 <hr>
 <br>
-<br>
 
-[How to learn a language by playing games - a quick guide](https://www.google.com)
-
-<a href="https://www.google.com" target="_blank">How to learn a language by playing games - a quick guide</a>
 
 <img src="/img/portfolio/kotobirynt-box.jpg" alt="alt text" width="600" >
 
 ## What is the game about?
 
-All players form a single team. In the first round (level 1) each player receives 1 card, in the second round (level 2) they receive 2 cards, and so on. **The only thing the players need to do as a team is lay all these cards down in numerical order, from lowest to highest.** This would be super easy except that it is so difficult! Whaaaaat 🤨?!? 
-<br>Here is the trick: the players **must not disclose anything about their own cards** - no sharing of information, no secret signals. Whoever thinks they have the next card simply puts it down -- if they were right and no one had a lower card, they continue playing but if they were wrong, everybody loses a life and you start the round again. 
-<br>There's also a handy throwing-a-star trick for the moments the entire team agrees to use up one of thier stars (earned at levels 1, 2, 5 and 8) and sync up by revealing everybody's lowest cards. The game ends when either the team has run out of lives (a loss) or has completed the last level (a victory).
- 
+Your mission is to bring home as many sweet, hungry kitties as possible -- preferably those which give you the most points 😸. You form a square consisting of 4x4 labirynth tiles and place 2 cat cards and 2 home cards outside of the square (the instruction specifies where exactly!). The players take turns to rotate and/or exchange the labirynth tiles in order to create a path without obstacles between a cat and a home where it can get a yummy meal. If a player can bring a kitty home in 2 moves, they win the cat card and the corresponding points. The game stops as soon as all cat cards have been won. The player (1-4) or team (2 vs. 2) with the highest number of points wins.
+
 
 <img src="/img/portfolio/kotobirynt-table.jpg" alt="alt text" width="500" >
 
 ## What kind of vocabulary can you practice?
 
-This game is called The Mind for a reason -- it is played in the players' minds, they cannot exchange any information about their cards or strategy. This makes it a very exciting, language independent game great for beginners as they can focus entirely on practicing their numbers (read the numbers and levels that appear on the table) and general gaming vocabulary (download the free Useful phrases in Polish PDF).
+This game is completly language independent as the main strategy used is visuospacial -- you need to visually coordinate 16 tiles to navigate the cat's way out of the maze. This calls for a lot of **directions giving** and this is exactly what the game helps you practice - *turn right/left, go up/down the sewer, pass below/above the bridge*, etc. <br> You can play in the basic variant narrating your actions in the present indicative tense, e.g. *I'm turning right and going up under the tunnel.*, or play in the imperative mode giving directions to your team mate if you play 2 against 2, e.g. *Go left, pass by the mouse and continue up.*
 
 <p>
 
 <h3><i class="fa fa-2x fa-commenting fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Example expressions you will learn:</h3>
 
 
-<p>Numbers 1-100</p>
-<p>Ordinary numbers 1-12 (poziom pierwszy, poziom drugi, poziom trzeci, etc.)</p>
-<p>Udało się!</p>
-<p>Dobrze, teraz następna runda.</p>
+<p>Idę kanałem do góry./ Idź kanałem do góry.</p>
+<p>Skręcam w lewo./ Skręć w lewo.</p>
+<p>Przechodzę pod mostem./ Przejdź pod mostem.</p>
+<p>Kot doszedł do domu.</p>
 
 </p>
 

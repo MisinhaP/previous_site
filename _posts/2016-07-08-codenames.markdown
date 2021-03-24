@@ -14,11 +14,16 @@ categories: games intermediate
 
             <div class="col-lg-5 col-md-10 text-left">
                 <div class="service-box">
-                   <p><i class="fa fa-2x fa-sort-amount-asc fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Language level: beginner</p>
+                   <p><i class="fa fa-2x fa-sort-amount-asc fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Language level: intermediate</p>
 
-<p><i class="fa fa-2x fa-commenting-o fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Vocabulary: numbers</p>
+<p><i class="fa fa-2x fa-commenting-o fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Vocabulary: random nouns</p>
 
-<p><i class="fa fa-2x fa-cubes fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game type: card game, cooperative </p>
+<p><i class="fa fa-2x fa-cubes fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game type: tile game, cooperative </p>
+
+<br>
+<br>
+
+<p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="https://www.google.com" target="_blank">How to learn with games - a quick guide</a> </p>
 
                 </div>
             </div>
@@ -26,7 +31,7 @@ categories: games intermediate
                 <div class="service-box">
                   <p><i class="fa fa-2x fa-dashboard fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game level: beginner</p>
 
-<p><i class="fa fa-2x fa-child fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Number of players: 2-4</p>
+<p><i class="fa fa-2x fa-child fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Number of players: 4+ with the option for 2-3</p>
 
 <p><i class="fa fa-2x fa-hourglass-start fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game time: 20-60 mins</p>
 
@@ -40,38 +45,34 @@ categories: games intermediate
 <hr>
 <hr>
 <br>
-<br>
 
-[How to learn a language by playing games - a quick guide](https://www.google.com)
-
-<a href="https://www.google.com" target="_blank">How to learn a language by playing games - a quick guide</a>
 
 <img src="/img/portfolio/codenames-box.jpg" alt="alt text" width="400" >
 
 ## What is the game about?
 
-All players form a single team. In the first round (level 1) each player receives 1 card, in the second round (level 2) they receive 2 cards, and so on. **The only thing the players need to do as a team is lay all these cards down in numerical order, from lowest to highest.** This would be super easy except that it is so difficult! Whaaaaat 🤨?!? 
-<br>Here is the trick: the players **must not disclose anything about their own cards** - no sharing of information, no secret signals. Whoever thinks they have the next card simply puts it down -- if they were right and no one had a lower card, they continue playing but if they were wrong, everybody loses a life and you start the round again. 
-<br>There's also a handy throwing-a-star trick for the moments the entire team agrees to use up one of thier stars (earned at levels 1, 2, 5 and 8) and sync up by revealing everybody's lowest cards. The game ends when either the team has run out of lives (a loss) or has completed the last level (a victory).
+In this game you all turn into spies and try to decode secret messages given to you by your team's spymaster 🕵. You divide into two teams, red and blue, and place 25 word cards in a 5x5 square. Each team appoints a spymaster, they will know which words belong to their teams and will have to hint their teams to guess them by giving them clues. 
+<p>Clues consist of one word and a number; the word is what the clue is and the number says how many words the clue refers to. All other teammates may discuss aloud what they think the clue could mean but the spymaster has to remain silent. Once they have their guesses they touch the cards they chose and see if they got it right. The objective is to correctly guess all of your teams’ words before the other team does and without touching one forbidden card -- the assassin.</p>
+
+<br>
  
 
 <img src="/img/portfolio/codenames-cards.jpg" alt="alt text" width="400" >
 
+<br>
+
 ## What kind of vocabulary can you practice?
 
-This game is called The Mind for a reason -- it is played in the players' minds, they cannot exchange any information about their cards or strategy. This makes it a very exciting, language independent game great for beginners as they can focus entirely on practicing their numbers (read the numbers and levels that appear on the table) and general gaming vocabulary (download the free Useful phrases in Polish PDF).
+This game does not require you to use any sentences, only simple nouns. You can simplify the discussion part, for example by also only using nouns and body language (like in charades), this can make the game even more challenging and fun! The reason I classify this game as intermediate though is that it uses maaaany nouns -- there are 400 on the cards and there's a limitless number of clue words that you can use! So you will most probably want to play it with your little translator app 🗣 ready for action. And you can always up the level by making the discussion part more complex.
 
 <p>
+<br>
 
 <h3><i class="fa fa-2x fa-commenting fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Example expressions you will learn:</h3>
 
 
-<p>Numbers 1-100</p>
-<p>Ordinary numbers 1-12 (poziom pierwszy, poziom drugi, poziom trzeci, etc.)</p>
-<p>Udało się!</p>
-<p>Dobrze, teraz następna runda.</p>
+<p>At least 400-600 nouns like pirat, trójkąt, słup, podkowa, etc.</p>
 
-</p>
 
 <br>
 
