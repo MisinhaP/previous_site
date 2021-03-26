@@ -7,6 +7,7 @@ author:     "false"
 header-img: "img/portfolio/1.jpg"
 name: Ronny Dirikx
 country: Belgium
+mainpost: 
 
 testimonial1: "After living already a few years in Poland as a Dutch speaker and being able to say a good few words in Polish , which in all honesty i would just randomly put together in a sentence without any regard to form or linguistic rules, i decided it was time to tackle the oh so famously difficult Polish grammar! I was very skeptical about anyone being able to explain to me "
 

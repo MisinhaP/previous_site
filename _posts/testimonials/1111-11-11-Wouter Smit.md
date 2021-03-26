@@ -7,6 +7,7 @@ author:     "false"
 header-img: "img/portfolio/1.jpg"
 name: Wouter Smit
 country: the Netherlands
+mainpost: "active"
 
 testimonial1: "I embarked on Polish lessions because my son is raised bilingual and my wife is Polish. Within month Monika taught me the basics, most of the rather complicated grammar, and plenty of useful verbs to construct useful sentences. She step-wise introduced me into a complex language at the right pace. Lessons generally contained a good balance between the more dryish grammar"
 

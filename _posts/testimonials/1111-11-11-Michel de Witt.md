@@ -7,6 +7,7 @@ author:     "false"
 header-img: "img/portfolio/1.jpg"
 name: Michel de Witt
 country: the Netherlands
+mainpost: 
 
 testimonial1: "I participated the Polish classes of Monika, organised by Lokomotywa. In just a few months she taught me the basics of grammar and a lot of verbs. It enables me to talk a lot better in Polish, without people making fun of me…:-) Courses driven by Monika are the perfect combination of hard work, but with (a lot of) fun as well. Learning by doing, not by filling the"
 
