@@ -23,8 +23,6 @@ header-img: "img/post-bg-01.jpg"
     </small></h2>
 
       {% for game in site.categories.games %}
-      {% capture this_year %}{{ game.date | date: "%Y" }}{% endcapture %}
-      {% capture next_year %}{{ game.previous.date | date: "%Y" }}{% endcapture %}
 
       {% if forloop.first %}
       <div class="col-md-12 content-panel articles">
@@ -38,17 +36,13 @@ header-img: "img/post-bg-01.jpg"
             <h3><a href="{{ game.url | prepend: site.baseurl }}">{{ game.title }}</a></h3>
             <small class="hidden-xs">{{ game.date | date: "%B %-d, %Y" }}</small>
           </li>
+          
       {% if forloop.last %}
         </ul>
       </div>
       {% else %}
-        {% if this_year != next_year %}
-          </ul>
-        </div>
-        <div class="col-md-12 content-panel articles">
-          <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-          <ul style="list-style: none;">
-        {% endif %}
+
+  
     {% endif %}
 
     {% endfor %}
