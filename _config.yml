@@ -35,3 +35,12 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
 # Build settings
+
+#games classes#
+class:
+  - name: Nature
+    active: true
+  - name: Whatever
+    active: true
+  - name: test
+    active: false
