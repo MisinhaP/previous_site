@@ -8,24 +8,27 @@
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <div class="quote"><i class="fa fa-quote-left fa-4x"></i></div>
-                <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="3000">
+                <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="4000">
                   <!-- Carousel indicators -->
                   <ol class="carousel-indicators">
-                    <li data-target="#fade-quote-carousel" data-slide-to="0"></li>
-                    <li data-target="#fade-quote-carousel" data-slide-to="1"></li>
-                    <li data-target="#fade-quote-carousel" data-slide-to="2" class="active"></li>
-                    <li data-target="#fade-quote-carousel" data-slide-to="3"></li>
-                    <li data-target="#fade-quote-carousel" data-slide-to="4"></li>
+                        {% for testimonial in site.categories.testimonials %}
+                        <li data-target="#fade-quote-carousel" data-slide-to="{{forloop.index | minus:1}}"></li>
+                        {% endfor %}
                   </ol>
                   <!-- Carousel items -->
                   <div class="carousel-inner">
+                    {% for testimonial in site.categories.testimonials %}
                     <div class="item">
                         <blockquote>
-                            <p>Monika is a great teacher and an easy person to talk to. I was having classes of Polish with her and I felt that I made a huge progress in my knowledge. She was not only able to explain the language to me but capable of discussing it and its roots (which for me made the classes much more interesting). I definitely recommend her and I bet you will be a better speaker in the end.
-                                <p>Cedric Pimenta, Portugal</p>
-                            </p>
+                            <p>{{testimonial.testimonial1}}</p>
+                            <p>{{ testimonial.name }}, {{ testimonial.country }}</p>
+                            
                         </blockquote>   
                     </div>
+                    {% endfor %}
+                    
+
+
                     <div class="item">
                         <blockquote>
                             <p>I participated the Polish classes of Monika, organised by Lokomotywa. In just a few months she taught me the basics of grammar and a lot of verbs. It enables me to talk a lot better in Polish, without people making fun of me…:-) Courses driven by Monika are the perfect combination of hard work, but with (a lot of) fun as well. Learning by doing, not by filling the <span id="dots">...</span><span id="more"> tank with tons of words only. I truly recommend Monika if you want to learn a language in an usly difficult Polish grammar! I was very skeptical about anyone being able to explain to me  efficient and fun way! </span> <a onclick="myFunction()" id="readmore">Read more</a>
