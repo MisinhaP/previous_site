@@ -3,7 +3,7 @@
       <hr>
       <div id="myBtnContainer" class="sticky">
         {% if site.classActive %}
-        <button class="btn active" onclick="filterSelection('all')">All</button>
+        <button class="btn activeClass" onclick="filterSelection('all')">All</button>
         {% for class in site.class %}
         {% if class.active %}
         <button class="btn" onclick="filterSelection('{{ class.name }}')"> {{ class.name }}</button>     

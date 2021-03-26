@@ -177,7 +177,7 @@ div.sticky {
   background-color: #ddd;
 }
 
-.btn.active {
+.btn.activeClass {
   background-color: #666;
   color: white;
 }
