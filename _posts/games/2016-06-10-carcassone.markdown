@@ -4,8 +4,13 @@ title:      "Carcassonne"
 subtitle:   "test test"
 date:       2016-09-18 12:00:00
 author:     "false"
-header-img: "img/dice.jpg"
-categories: games intermediate
+header-img: "img/portfolio/1.jpg"
+categories: games 
+class: Intermediate
+description: "david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+active: true
 ---
 
 

@@ -39,9 +39,11 @@ gems: [jekyll-paginate, jekyll-feed]
 #games classes#
 classActive: true
 class:
-  - name: Nature
+  - name: Language Independent
     active: true
-  - name: Whatever
+  - name: Beginner
     active: true
-  - name: test
+  - name: Intermediate
+    active: true
+  - name: futro
     active: false

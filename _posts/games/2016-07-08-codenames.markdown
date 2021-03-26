@@ -4,8 +4,10 @@ title:      "Codenames"
 subtitle:   "test test"
 date:       2016-09-18 12:00:00
 author:     "false"
-header-img: "img/dice.jpg"
-categories: games intermediate
+header-img: "img/portfolio/1.jpg"
+categories: games 
+class: Intermediate
+active: true
 ---
 
 
