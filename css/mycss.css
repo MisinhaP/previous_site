@@ -201,6 +201,13 @@ div.sticky {
 }
 
 
+#myBtnContainer {
+  z-index: 1000
+}
+
+#mainNav {
+  z-index: 1001
+}
 
 
 
