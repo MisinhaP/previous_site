@@ -8,48 +8,20 @@ header-img: "img/portfolio/1.jpg"
 categories: games 
 class: Intermediate
 active: trues
+image: /img/portfolio/the-mind-box.png
+
+languagelevel: beginner
+vocabulary: numbers
+gametype: card game, cooperative
+gamelevel: beginner
+numberplayers: 2-4
+gametime: 20-60 mins
+howto: www.sapo.pt
+buylink: www.cryptopunk.com
+
+
+
 ---
-
-
-  <div class="container">
-        <div class="row">
-
-            <div class="col-lg-5 col-md-10 text-left">
-                <div class="service-box">
-                   <p><i class="fa fa-2x fa-sort-amount-asc fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Language level: beginner</p>
-
-<p><i class="fa fa-2x fa-commenting-o fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Vocabulary: numbers</p>
-
-<p><i class="fa fa-2x fa-cubes fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game type: card game, cooperative </p>
-
-<br>
-<br>
-
-<p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="https://www.google.com" target="_blank">How to learn with games - a quick guide</a> </p>
-
-                </div>
-            </div>
-            <div class="col-lg-5 col-md-10 text-left">
-                <div class="service-box">
-                  <p><i class="fa fa-2x fa-dashboard fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game level: beginner</p>
-
-<p><i class="fa fa-2x fa-child fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Number of players: 2-4</p>
-
-<p><i class="fa fa-2x fa-hourglass-start fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game time: 20-60 mins</p>
-
-                </div>
-            </div>
-           
-           
-        </div>
-    </div>
-           
-<hr>
-<hr>
-<br>
-
-
-<img src="/img/portfolio/the-mind-box.png" alt="alt text" width="600" >
 
 ## What is the game about?
 
@@ -68,20 +40,16 @@ This game is called The Mind for a reason -- it is played in the players' minds,
 
 <h3><i class="fa fa-2x fa-commenting fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Example expressions you will learn:</h3>
 
-
 <p>Numbers 1-100</p>
 <p>Ordinary numbers 1-12 (poziom pierwszy, poziom drugi, poziom trzeci, etc.)</p>
 <p>Udało się!</p>
 <p>Dobrze, teraz następna runda.</p>
 
 </p>
-
 <br>
 
 
 <a href="#contact" class="btn btn-outline btn-xl page-scroll">I want to buy this game!</a>
-
-<br>
 <br>
 
 <p><i class="fa fa-2x fa-download fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Free downloads available for this game: </p>
