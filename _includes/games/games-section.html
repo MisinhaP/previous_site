@@ -33,13 +33,9 @@
       <div class="row">
         {% for game in site.categories.games %}
         {% if game.active %}
-        <div class="column {{ game.class }}">
-          <div class="content">
-            <img src="/{{ game.header-img | prepend: site.baseurl }}" alt="Mountains" style="width:100%">
-            <h4>{{ game.title }}</h4>
-            <p>{{ game.description }}</p>
-          </div>
-        </div>
+        
+         {% include games/cards.html%}
+
         {% endif %}
         {% endfor %}
       </div>

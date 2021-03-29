@@ -68,15 +68,7 @@
     border-radius: 100px;
 }
 
-#more {display: none;}
-#more2 {display: none;}
-#more3 {display: none;}
-#more4 {display: none;}
 
-#readmore {cursor: pointer;}
-#readmore2 {cursor: pointer;}
-#readmore3 {cursor: pointer;}
-#readmore4 {cursor: pointer;}
 
 
 input[type=text], select, textarea {
@@ -142,7 +134,6 @@ div.sticky {
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
   display: none; /* Hide all elements by default */
 }
 
@@ -169,7 +160,6 @@ div.sticky {
   border: none;
   outline: none;
   padding: 12px 16px;
-  background-color: white;
   cursor: pointer;
 }
 
@@ -181,6 +171,12 @@ div.sticky {
   background-color: #666;
   color: white;
 }
+
+.card p{
+  font-size: 14px;
+}
+
+
 
 
 
