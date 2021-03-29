@@ -9,6 +9,7 @@ categories: games
 class: Intermediate
 active: trues
 image: /img/portfolio/the-mind-box.png
+permalink: themind
 
 languagelevel: beginner
 vocabulary: numbers

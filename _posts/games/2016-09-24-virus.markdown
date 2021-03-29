@@ -8,6 +8,7 @@ header-img: "img/portfolio/1.jpg"
 categories: games 
 class: Intermediate
 active: true
+permalink: virus
 ---
 
 

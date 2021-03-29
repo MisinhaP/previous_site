@@ -6,6 +6,7 @@ date:       2016-09-18 12:00:00
 author:     "false"
 header-img: "img/dice.jpg"
 categories: games intermediate
+
 ---
 
 <b>You may wonder how learning how to say *I'm transplanting your brain* or *I've built a castle next to your river* can possibly be useful in learning how to communicate in Polish with your parents-in-law 🤔. But wait, didn't you say studying grammar was boring⁉ So just let it sneak into your brain while you're having fun transplanting brains and building castles. You're a perfect structure decoding machine, just let your mind do the hard work while you're having fun</b> 🤹
