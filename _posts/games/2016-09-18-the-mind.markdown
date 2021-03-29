@@ -2,12 +2,11 @@
 layout:     post
 title:      "The Mind"
 subtitle:   "test test"
-date:       2016-09-18 12:00:00
 author:     "false"
 header-img: "img/portfolio/1.jpg"
 categories: games 
 class: Intermediate
-active: trues
+active: true
 image: /img/portfolio/the-mind-box.png
 permalink: themind
 
@@ -19,7 +18,6 @@ numberplayers: 2-4
 gametime: 20-60 mins
 howto: www.sapo.pt
 buylink: www.cryptopunk.com
-
 
 
 ---

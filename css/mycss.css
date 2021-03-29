@@ -183,3 +183,24 @@ div.sticky {
 
 
 
+
+
+/*  767px wide or less */
+@media only screen and (max-width: 767px), screen and (min-width: 989px)  {
+  #page-top-game {
+  padding-top: 50px; 
+}
+}
+
+
+/* No greater than 989px, no less than 767px */
+@media  (max-width: 989px) and (min-width: 767px) {
+  #page-top-game {
+  padding-top: 90px; 
+}
+}
+
+
+
+
+
