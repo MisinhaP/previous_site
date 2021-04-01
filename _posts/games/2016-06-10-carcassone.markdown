@@ -1,60 +1,28 @@
 ---
 layout:     post
 title:      "Carcassonne"
-subtitle:   "test test"
-date:       2016-09-18 12:00:00
+subtitle:   "Klaus-Jürgen Wrede (2000)"
 author:     "false"
-header-img: "img/portfolio/1.jpg"
+header-img: "img/portfolio/4.jpg"
 categories: games 
 class: Intermediate
-description: "david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
 active: true
+image: /img/portfolio/carcassonne-box.jpg
+permalink: carcassonne
+
+languagelevel: intermediate
+vocabulary: city, Middle-Ages 
+gametype: tile placement, logical
+gamelevel: beginner
+numberplayers: 2-5
+gametime: 60 mins
+howto: www.sapo.pt
+buylink: www.cryptopunk.com
+
+description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
 ---
-
-
-  <div class="container">
-        <div class="row">
-
-            <div class="col-lg-5 col-md-10 text-left">
-                <div class="service-box">
-                   <p><i class="fa fa-2x fa-sort-amount-asc fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Language level: intermediate</p>
-
-<p><i class="fa fa-2x fa-commenting-o fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Vocabulary: Middle-Ages, city</p>
-
-<p><i class="fa fa-2x fa-cubes fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game type: tile game, logical </p>
-
-<br>
-<br>
-
-<p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="https://www.google.com" target="_blank">How to learn with games - a quick guide</a> </p>
-                </div>
-            </div>
-            <div class="col-lg-5 col-md-10 text-left">
-                <div class="service-box">
-                  <p><i class="fa fa-2x fa-dashboard fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game level: beginner</p>
-
-<p><i class="fa fa-2x fa-child fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Number of players: 2-5</p>
-
-<p><i class="fa fa-2x fa-hourglass-start fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game time: 60 mins</p>
-
-                </div>
-            </div>
-           
-           
-        </div>
-    </div>
-           
-<hr>
-<hr>
-<br>
-
-#### The game's theme is inspired by the medieval French city of Carcassonne -- a stone fortress in the south of France known for its imposing fortifications. Players must develop the area around the city by placing landscape tiles with **roads, cities, monasteries, fields and rivers** and occupy the land with their followers -- cute wodden meeples (figurines) that turn into **highwaymen, knights, monks and farmers** depending on where they are placed on the board.
-
-<br>
-
-<img src="/img/portfolio/carcassonne-box.jpg" alt="alt text" width="400" >
 
 ## What is the game about?
 
@@ -76,21 +44,17 @@ The game is played in the Middle-Ages so it offers a great practice of your holi
 <p>
 
 <h3><i class="fa fa-2x fa-commenting fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Example expressions you will learn:</h3>
-
+<br>
 
 <p>Buduję tu drogę.</p>
 <p>Mój rolnik zajmuje to pole.</p>
 <p>Zamykam/otaczam moje miasto murem.</p>
 <p>W tym mieście jest herb!</p>
 
+
 </p>
 
-<br>
-
-
-<a href="#contact" class="btn btn-outline btn-xl page-scroll">I want to buy this game!</a>
-
-<br>
+<a href="" class="btn btn-outline btn-xl page-scroll">I want to buy this game!</a>
 <br>
 
 <p><i class="fa fa-2x fa-download fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Free downloads available for this game: </p>
@@ -98,6 +62,7 @@ The game is played in the Middle-Ages so it offers a great practice of your holi
 [Game rules in Polish PDF](https://www.google.com)
 
 [Useful phrases in Polish PDF](https://www.google.com)
+
 
 
 

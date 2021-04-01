@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      "The Mind"
-subtitle:   "test test"
+subtitle:   "Wolfgang Warsch (2018)"
 author:     "false"
-header-img: "img/portfolio/1.jpg"
+header-img: "img/portfolio/4.jpg"
 categories: games 
-class: Intermediate
+class: Beginner
 active: true
 image: /img/portfolio/the-mind-box.png
 permalink: themind
@@ -18,6 +18,8 @@ numberplayers: 2-4
 gametime: 20-60 mins
 howto: www.sapo.pt
 buylink: www.cryptopunk.com
+
+description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
 ---
@@ -38,6 +40,7 @@ This game is called The Mind for a reason -- it is played in the players' minds,
 <p>
 
 <h3><i class="fa fa-2x fa-commenting fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Example expressions you will learn:</h3>
+<br>
 
 <p>Numbers 1-100</p>
 <p>Ordinary numbers 1-12 (poziom pierwszy, poziom drugi, poziom trzeci, etc.)</p>
@@ -45,7 +48,6 @@ This game is called The Mind for a reason -- it is played in the players' minds,
 <p>Dobrze, teraz następna runda.</p>
 
 </p>
-<br>
 
 <a href="" class="btn btn-outline btn-xl page-scroll">I want to buy this game!</a>
 <br>

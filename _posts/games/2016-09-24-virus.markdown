@@ -1,56 +1,28 @@
 ---
 layout:     post
 title:      "Virus"
-subtitle:   "test test"
-date:       2016-09-18 12:00:00
+subtitle:   "D.Cabrero, C.López, S.Santisteban (2015)"
 author:     "false"
 header-img: "img/portfolio/1.jpg"
 categories: games 
 class: Intermediate
 active: true
+image: /img/portfolio/Virus-box.png
 permalink: virus
+
+languagelevel: intermediate
+vocabulary: sickness, body
+gametype: card game, collecting
+gamelevel: beginner
+numberplayers: 2-6
+gametime: 20-60 mins
+howto: www.sapo.pt
+buylink: www.cryptopunk.com
+
+description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
 ---
-
-
-  <div class="container">
-        <div class="row">
-
-            <div class="col-lg-5 col-md-10 text-left">
-                <div class="service-box">
-                   <p><i class="fa fa-2x fa-sort-amount-asc fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Language level: Intermediate</p>
-
-<p><i class="fa fa-2x fa-commenting-o fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Vocabulary: sickness, body</p>
-
-<p><i class="fa fa-2x fa-cubes fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game type: card game, collecting </p>
-
-<br>
-<br>
-
-<p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="https://www.google.com" target="_blank">How to learn with games - a quick guide</a> </p>
-
-                </div>
-            </div>
-            <div class="col-lg-5 col-md-10 text-left">
-                <div class="service-box">
-                  <p><i class="fa fa-2x fa-dashboard fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game level: beginner</p>
-
-<p><i class="fa fa-2x fa-child fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Number of players: 2-6</p>
-
-<p><i class="fa fa-2x fa-hourglass-start fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game time: 20-60 mins</p>
-
-                </div>
-            </div>
-           
-           
-        </div>
-    </div>
-           
-<hr>
-<hr>
-<br>
-
-
-<img src="/img/portfolio/Virus-cards.png" alt="alt text" width="600" >
 
 ## What is the game about?
 
@@ -67,7 +39,7 @@ You will use sickness related vocabulary like **infect, vaccine, medicine, immun
 <p>
 
 <h3><i class="fa fa-2x fa-commenting fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Example expressions you will learn:</h3>
-
+<br>
 
 <p>Infekuję/zarażam twój żołądek wirusem.</p>
 <p>Transplantuję/przeszczepiam twoje serce.</p>
@@ -75,12 +47,7 @@ You will use sickness related vocabulary like **infect, vaccine, medicine, immun
 
 </p>
 
-<br>
-
-
-<a href="#contact" class="btn btn-outline btn-xl page-scroll">I want to buy this game!</a>
-
-<br>
+<a href="" class="btn btn-outline btn-xl page-scroll">I want to buy this game!</a>
 <br>
 
 <p><i class="fa fa-2x fa-download fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Free downloads available for this game: </p>
@@ -88,6 +55,14 @@ You will use sickness related vocabulary like **infect, vaccine, medicine, immun
 [Game rules in Polish PDF](https://www.google.com)
 
 [Useful phrases in Polish PDF](https://www.google.com)
+
+
+
+
+
+
+
+
 
 
 

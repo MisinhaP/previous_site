@@ -1,55 +1,28 @@
 ---
 layout:     post
 title:      "Chabirynth"
-subtitle:   "test test"
-date:       2016-09-18 12:00:00
+subtitle:   "Antoine Bauza (2007)"
 author:     "false"
-header-img: "img/portfolio/1.jpg"
+header-img: "img/portfolio/4.jpg"
 categories: games 
-class: Intermediate
+class: Beginner
 active: true
+image: /img/portfolio/kotobirynt-box.jpg
+permalink: chabirynth
+
+languagelevel: beginner
+vocabulary: giving directions
+gametype: tile game, visuospacial
+gamelevel: beginner
+numberplayers: 1-4
+gametime: 20-30 mins
+howto: www.sapo.pt
+buylink: www.cryptopunk.com
+
+description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
 ---
-
-
-  <div class="container">
-        <div class="row">
-
-            <div class="col-lg-5 col-md-10 text-left">
-                <div class="service-box">
-                   <p><i class="fa fa-2x fa-sort-amount-asc fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Language level: beginner</p>
-
-<p><i class="fa fa-2x fa-commenting-o fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Vocabulary: giving directions</p>
-
-<p><i class="fa fa-2x fa-cubes fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game type: tile game, visuospacial </p>
-
-<br>
-<br>
-
-<p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="https://www.google.com" target="_blank">How to learn with games - a quick guide</a> </p>
-
-                </div>
-            </div>
-            <div class="col-lg-5 col-md-10 text-left">
-                <div class="service-box">
-                  <p><i class="fa fa-2x fa-dashboard fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game level: beginner</p>
-
-<p><i class="fa fa-2x fa-child fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Number of players: 1-4</p>
-
-<p><i class="fa fa-2x fa-hourglass-start fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Game time: 20-30 mins</p>
-
-                </div>
-            </div>
-           
-           
-        </div>
-    </div>
-           
-<hr>
-<hr>
-<br>
-
-
-<img src="/img/portfolio/kotobirynt-box.jpg" alt="alt text" width="600" >
 
 ## What is the game about?
 
@@ -65,7 +38,7 @@ This game is completly language independent as the main strategy used is visuosp
 <p>
 
 <h3><i class="fa fa-2x fa-commenting fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Example expressions you will learn:</h3>
-
+<br>
 
 <p>Idę kanałem do góry./ Idź kanałem do góry.</p>
 <p>Skręcam w lewo./ Skręć w lewo.</p>
@@ -74,12 +47,7 @@ This game is completly language independent as the main strategy used is visuosp
 
 </p>
 
-<br>
-
-
-<a href="#contact" class="btn btn-outline btn-xl page-scroll">I want to buy this game!</a>
-
-<br>
+<a href="" class="btn btn-outline btn-xl page-scroll">I want to buy this game!</a>
 <br>
 
 <p><i class="fa fa-2x fa-download fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Free downloads available for this game: </p>
@@ -87,6 +55,14 @@ This game is completly language independent as the main strategy used is visuosp
 [Game rules in Polish PDF](https://www.google.com)
 
 [Useful phrases in Polish PDF](https://www.google.com)
+
+
+
+
+
+
+
+
 
 
 
