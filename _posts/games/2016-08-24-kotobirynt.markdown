@@ -16,7 +16,8 @@ gametype: tile game, visuospacial
 gamelevel: beginner
 numberplayers: 1-4
 gametime: 20-30 mins
-howto: www.sapo.pt
+howto: /pdf/Games_vocabulary.pdf
+rules: 	/pdf/kotobirynt_instrukcja.pdf
 buylink: www.cryptopunk.com
 
 description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -47,14 +48,16 @@ This game is completly language independent as the main strategy used is visuosp
 
 </p>
 
-<a href="" class="btn btn-outline btn-xl page-scroll">I want to buy this game!</a>
+<br>
+
+<p><a href="http://{{page.buylink}}" class="btn btn-outline btn-xl" target="_blank">Buy this game on amazon.nl</a></p>
 <br>
 
 <p><i class="fa fa-2x fa-download fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Free downloads available for this game: </p>
 
-[Game rules in Polish PDF](https://www.google.com)
+<p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="/pdf/Games_vocabulary.pdf" target="_blank">Gaming vocabulary in Polish - a FREE pdf</a> </p>
 
-[Useful phrases in Polish PDF](https://www.google.com)
+<p><i class="fa fa-2x fa-map fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="{{page.rules}}" target="_blank">Game rules in Polish - a FREE pdf</a> </p>
 
 
 
