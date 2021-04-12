@@ -3,7 +3,7 @@ layout:     post
 title:      "Virus"
 subtitle:   "D.Cabrero, C.López, S.Santisteban (2015)"
 author:     "false"
-header-img: "img/portfolio/1.jpg"
+header-img: "img/portfolio/virus_cover.jpg"
 categories: games 
 class: Intermediate
 active: true
@@ -20,7 +20,7 @@ howto: /pdf/Games_vocabulary.pdf
 rules: 	/pdf/wirus_instrukcja.pdf
 buylink: amzn.to/39R6zQ4
 
-description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+description: Getting infected with a virus has never been so much fun! A fast-paced card game with ridiculous dialogs that will teach you to talk about <b>the human body and sickness</b>, all you need is a small table or picknick blanket and a group of brave friends.
 
 
 ---

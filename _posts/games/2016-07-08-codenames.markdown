@@ -3,10 +3,10 @@ layout:     post
 title:      "Codenames"
 subtitle:   "Vlaada Chvátil (2015)"
 author:     "false"
-header-img: "img/portfolio/4.jpg"
+header-img: "img/portfolio/codenames_cover.jpg"
 categories: games 
 class: Intermediate
-active: true
+active: false
 image: /img/portfolio/codenames-box.jpg
 permalink: codenames
 

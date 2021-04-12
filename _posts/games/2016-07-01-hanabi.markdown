@@ -3,7 +3,7 @@ layout:     post
 title:      "Hanabi"
 subtitle:   "Antoine Bauza (2010)"
 author:     "false"
-header-img: "img/portfolio/4.jpg"
+header-img: "img/portfolio/hanabi_cover.jpg"
 categories: games 
 class: Beginner
 active: true
@@ -20,7 +20,8 @@ howto: /pdf/Games_vocabulary.pdf
 rules: 	/pdf/hanabi_instrukcja.pdf
 buylink: amzn.to/2RkojNx
 
-description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+description: From one of my favourite game authors, a simple cooperative game with a twist -- you can't see your own cards and need to be navigated by your partners -- what better way to practice new vocabulary? This time it's all about <b>colours and numeral nouns</b>, enjoy!
+
 
 
 ---

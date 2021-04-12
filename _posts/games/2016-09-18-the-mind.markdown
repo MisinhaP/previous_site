@@ -3,14 +3,14 @@ layout:     post
 title:      "The Mind"
 subtitle:   "Wolfgang Warsch (2018)"
 author:     "false"
-header-img: "img/portfolio/4.jpg"
+header-img: "img/portfolio/the_mind_cover.jpg"
 categories: games 
-class: Beginner
+class: Language Independent
 active: true
 image: /img/portfolio/the-mind-box.png
 permalink: themind
 
-languagelevel: beginner
+languagelevel: language independent
 vocabulary: numbers
 gametype: card game, cooperative
 gamelevel: beginner
@@ -20,7 +20,7 @@ howto: /pdf/Games_vocabulary.pdf
 rules: 	/pdf/the_Mind_instrukcja.pdf
 buylink: amzn.to/3upTMfw
 
-description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+description: Language independence is the sheer definition of this game in which you need to accomplish a mission as a team without uttering even a single word. It seems impossible before you start playing, then it is impossible to stop. Laughing is allowed. 
 
 
 ---

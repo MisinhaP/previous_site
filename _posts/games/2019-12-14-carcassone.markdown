@@ -3,7 +3,7 @@ layout:     post
 title:      "Carcassonne"
 subtitle:   "Klaus-Jürgen Wrede (2000)"
 author:     "false"
-header-img: "img/portfolio/4.jpg"
+header-img: "img/portfolio/carcassonne_cover.jpg"
 categories: games 
 class: Intermediate
 active: true
@@ -21,7 +21,9 @@ rules: 	/pdf/carcassonne_instrukcja.pdf
 buylink: amzn.to/3dIm1PT
 
 
-description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+description: Already a classic, beautifly made, it guarantees a lot of fun with easy rules that offer endless game scenarios and equally endless extensions with new themes. Sightseeing in Polish made easy with the <b>medieval professions and city architecture vocabulary</b>. 
+
+
 
 
 ---

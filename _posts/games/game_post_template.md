@@ -1,25 +1,28 @@
 ---
 layout:     post
-title:      "Azul"
-subtitle:   "Michael Kiesling (2017)"
+title:      "C"
+subtitle:   "K (2000)"
 author:     "false"
-header-img: "img/portfolio/azul_cover.jpg"
+header-img: "img/portfolio/4.jpg"
 categories: games 
-class: Language Independent
-active: true
-image: /img/portfolio/the-mind-box.png
-permalink: azul
+class: Intermediate
+active: 
+image: /img/portfolio/carcassonne-box.jpg
+permalink: 
 
-languagelevel: language independent
-vocabulary: n/a
-gametype: pattern building, action points
-numberplayers: 2-4
-gametime: 30-45 mins
+languagelevel: intermediate
+vocabulary: city, Middle-Ages 
+gametype: tile placement, logical
+numberplayers:
+gametime: 
 howto: /pdf/Games_vocabulary.pdf
-rules: 	/pdf/
+rules: 	/pdf/carcassonne_instrukcja.pdf
 buylink: 
 
-description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat The game's theme is inspired by abc. 
+
+
 
 
 ---
@@ -27,9 +30,14 @@ description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
 ## What is the game about?
 
 
- 
 
-<img src="/img/portfolio/the-mind-cards.jpg" alt="alt text" width="300" >
+
+ 
+<br> 
+
+<img src="/img/portfolio/carcassonne-cards.png" alt="alt text" width="400" >
+
+<br>
 
 ## What kind of vocabulary can you practice?
 
@@ -40,10 +48,11 @@ description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
 <h3><i class="fa fa-2x fa-commenting fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; Example expressions you will learn:</h3>
 <br>
 
-<p>Numbers 1-100</p>
-<p>Ordinary numbers 1-12 (poziom pierwszy, poziom drugi, poziom trzeci, etc.)</p>
-<p>Udało się!</p>
-<p>Dobrze, teraz następna runda.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
 
 </p>
 
@@ -57,6 +66,7 @@ description: david Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
 <p><i class="fa fa-2x fa-info fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="/pdf/Games_vocabulary.pdf" target="_blank">Gaming vocabulary in Polish - a FREE pdf</a> </p>
 
 <p><i class="fa fa-2x fa-map fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="{{page.rules}}" target="_blank">Game rules in Polish - a FREE pdf</a> </p>
+
 
 
 

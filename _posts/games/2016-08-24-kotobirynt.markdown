@@ -3,10 +3,10 @@ layout:     post
 title:      "Chabirynth"
 subtitle:   "Antoine Bauza (2007)"
 author:     "false"
-header-img: "img/portfolio/4.jpg"
+header-img: "img/portfolio/chabirynth_cover.jpg"
 categories: games 
 class: Beginner
-active: true
+active: false
 image: /img/portfolio/kotobirynt-box.jpg
 permalink: chabirynth
 
