@@ -59,6 +59,10 @@ This game is completly language independent as the main strategy used is visuosp
 
 <p><i class="fa fa-2x fa-map fa-fw wow bounceIn text-primary" aria-hidden="true"></i>&nbsp; <a href="{{page.rules}}" target="_blank">Game rules in Polish - a FREE pdf</a> </p>
 
+<br>
+### Don't hesitate to [contact me](/#contact) if you have any questions this short article did not answer -- I will be happy to help per email or during a free on-line consultation!
+<br>
+
 
 
 
